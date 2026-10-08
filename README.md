@@ -28,4 +28,13 @@
 
 ---
 
+## 🌐 تابعني
+
+[![YouTube](https://img.shields.io/badge/YouTube-Assem__Hussein-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Assem_Hussein)
+[![TikTok](https://img.shields.io/badge/TikTok-assem__hussein-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@assem_hussein)
+[![Instagram](https://img.shields.io/badge/Instagram-assem.hussein-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/assem.hussein/)
+[![Facebook](https://img.shields.io/badge/Facebook-%D8%B9%D9%85%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%AA%D9%88%D8%B1-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/cars.fix.and.repair/)
+
+---
+
 🔗 **GitHub:** [github.com/OctopusAssem](https://github.com/OctopusAssem) &nbsp;|&nbsp; 🌐 **Website:** [octopusassem.github.io](https://octopusassem.github.io/)
