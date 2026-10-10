@@ -18,13 +18,20 @@
 
 ## 🏎️ مجالات الخبرة والاهتمامات (Skills)
 * **تطوير الأنظمة والأندرويد:** بناء كيرنلات مخصصة، برمجيات الروت (KernelSU / SUSFS)، وجافا/كوتلن.
-* **ميكانيكا السيارات:** تشخيص الأعطال، صيانة المحركات، وإدارة **عمرات الموتور** بالكامل وتوثيقها برمجياً وشرحها على اليوتيوب.
+* **ميكانيكا السيارات:** تشخيص الأعطال، صيانة المحركات، وإدارة **عمرات الموتور** بالكامل وتوثيقها برمجياً وشرحها على منصات التواصل.
 
 ---
 
 ## 📱 تواصل معي وتابعني (Connect with Me)
-* **قناة اليوتيوب (عمرات وصيانة موتور):** [Assem Hussein على YouTube](https://www.youtube.com/channel/UClYwQjkI1SqXALr3sFlg8Ag)
-* **الموقع الشخصي:** [https://github.io](https://github.io)
-* **البريد الإلكتروني:** sanafottazaz@gmail.com
 
+| المنصة | رابط الحساب / المحتوى |
+| :--- | :--- |
+| 🌐 **الموقع الشخصي** | [octopusassem.github.io](https://github.io) |
+| 🎥 **يوتيوب (عمرات وصيانة)** | [Assem Hussein على YouTube](https://youtube.com) |
+| 🎵 **تيك توك** | [@assem_hussein على TikTok](https://tiktok.com) |
+| 📸 **إنستجرام** | [@assem.hussein على Instagram](https://instagram.com) |
+| 📘 **صفحة الفيسبوك الرسمية** | [https://www.facebook.com/cars.fix.and.repair](https://www.facebook.com/cars.fix.and.repair) |
+| ✉️ **البريد الإلكتروني** | sanafottazaz@gmail.com |
+
+---
 *بناء وإدارة: عاصم حسين (الأخطبوط الراقص) — جميع الحقوق محفوظة 2026.*
