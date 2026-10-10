@@ -1,40 +1,29 @@
-# OctopusAssem 👋
+# عاصم حسين | عاصم حسين عبد الجواد (OctopusAssem) 👋
+### 🐙 الأخطبوط الراقص — Android & Linux Kernel Developer & ميكانيكي سيارات
 
-**عاصم حسين — Android & Kernel Developer**
-
-مرحبًا! أنا **OctopusAssem** (عاصم حسين)، مطوّر تطبيقات أندرويد وكيرنل.
-ببني تطبيقات عملية بالعربي، وبطوّر كيرنلات مخصّصة لأجهزة أندرويد مفتوحة المصدر.
-
-🌐 **الموقع الشخصي:** https://octopusassem.github.io/
+مطور تطبيقات أندرويد ونواة لينكس (Kernel Developer) متخصص في بناء الكيرنلات المخصصة وأدوات الروت، بالإضافة إلى شغفي وخبرتي في مجال **ميكانيكا السيارات وعمرات الموتور**. دمجت بين عالم البرمجة وعالم الميكانيكا لتطوير حلول برمجية تخدم هذا المجال.
 
 ---
 
-## 🚀 المشاريع
+## 🛠️ مشاريعي البرمجية وتطبيقاتي (My Projects)
 
-| المشروع | الوصف |
-|---------|--------|
-| [**MECHANICUS**](https://github.com/OctopusAssem/MECHANICUS) | تطبيق إدارة مركز خدمة سيارات (عربيات، عملاء، دفعات، صور، مزامنة سحابية) — يعمل بدون إنترنت. |
-| [**RootScope**](https://rootscope.pages.bu.app/) | أداة عرض قدرات الجذر وكشف صلاحيات KernelSU / ReSukiSU. |
-| [**rosemary-susfs-kernel**](https://github.com/OctopusAssem/rosemary-susfs-kernel) | كيرنل مخصّص لـ Redmi Note 10S (rosemary): ReSukiSU + SUSFS مع إخفاء الجذر. |
-| [**capability-detector**](https://github.com/OctopusAssem/capability-detector) | تطبيق فحص قدرات الجذر. |
-| [**Sonar**](https://github.com/OctopusAssem/Sonar) | مشروع أندرويد مفتوح المصدر. |
-| [**NonGKI_Kernel_Build_2nd**](https://github.com/OctopusAssem/NonGKI_Kernel_Build_2nd) | بناء كيرنلات Non-GKI تلقائيًا. |
+| اسم المشروع | تخصص المشروع ووصفه العام | لغة البرمجة |
+| :--- | :--- | :--- |
+| 🛠️ **MECHANICUS** | تطبيق أندرويد (أوفلاين) مخصص لإدارة مراكز صيانة السيارات، تتبع عمرات الموتور، والمزامنة مع Google Drive. | Kotlin |
+| 🛡️ **rosemary-susfs-kernel** | كيرنل مخصص لـ Redmi Note 10S يدعم KernelSU و SUSFS لإخفاء الجذور بالكامل. | Shell / C |
+| 🔍 **Sonar** | تطبيق مفتوح المصدر لفحص وتفصيل تطبيقات الأندرويد المثبتة على الهاتف. | Kotlin |
+| ⚙️ **capability-detector** | تطبيق لفحص الصلاحيات والقدرات التي يبلغ عنها كيرنل KernelSU إلى مديره. | Java |
 
 ---
 
-## 🛠️ التقنيات
-
-`Kotlin` · `Android` · `Jetpack Compose` · `Linux Kernel` · `KernelSU / ReSukiSU` · `SUSFS` · `GitHub Actions`
-
----
-
-## 🌐 تابعني
-
-[![YouTube](https://img.shields.io/badge/YouTube-Assem__Hussein-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Assem_Hussein)
-[![TikTok](https://img.shields.io/badge/TikTok-assem__hussein-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@assem_hussein)
-[![Instagram](https://img.shields.io/badge/Instagram-assem.hussein-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/assem.hussein/)
-[![Facebook](https://img.shields.io/badge/Facebook-%D8%B9%D9%85%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%AA%D9%88%D8%B1-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/cars.fix.and.repair/)
+## 🏎️ مجالات الخبرة والاهتمامات (Skills)
+* **تطوير الأنظمة والأندرويد:** بناء كيرنلات مخصصة، برمجيات الروت (KernelSU / SUSFS)، وجافا/كوتلن.
+* **ميكانيكا السيارات:** تشخيص الأعطال، صيانة المحركات، وإدارة **عمرات الموتور** بالكامل وتوثيقها برمجياً.
 
 ---
 
-🔗 **GitHub:** [github.com/OctopusAssem](https://github.com/OctopusAssem) &nbsp;|&nbsp; 🌐 **Website:** [octopusassem.github.io](https://octopusassem.github.io/)
+## 📱 تواصل معي (Connect with Me)
+* **البريد الإلكتروني:** sanafottazaz@gmail.com
+* **الموقع الشخصي:** [https://octopusassem.github.io/](https://octopusassem.github.io/)
+
+*بناء وإدارة: عاصم حسين (الأخطبوط الراقص) — جميع الحقوق محفوظة 2026.*
