@@ -1,12 +1,27 @@
-<script async type="application/javascript"
-        src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
-<script>
-  (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
-    basicSubscriptions.init({
-      type: "NewsArticle",
-      isPartOfType: ["Product"],
-      isPartOfProductId: "CAow0qjODA:openaccess",
-      clientOptions: { theme: "light", lang: "en-GB" },
-    });
-  });
-</script>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي الشخصي</title>
+
+    <!-- كود الربط الخاص بجوجل (Reader Revenue Manager) -->
+    <script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+    <script>
+      (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+        basicSubscriptions.init({
+          type: "NewsArticle",
+          isPartOfType: ["Product"],
+          isPartOfProductId: "CAow0qjODA:openaccess",
+          clientOptions: { theme: "light", lang: "en-GB" },
+        });
+      });
+    </script>
+</head>
+<body>
+    <header style="text-align: center; margin-top: 50px; font-family: sans-serif;">
+        <h1>مرحباً بك في موقعي الشخصي</h1>
+        <p>هذا الموقع مستضاف ويعمل بالكامل على GitHub Pages.</p>
+    </header>
+</body>
+</html>
