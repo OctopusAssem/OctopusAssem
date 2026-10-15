@@ -22,15 +22,25 @@
 
 ---
 
+## 🏁 الورشة (Workshop)
+
+> **الوكالة الهندسية لصيانة وإصلاح السيارات** — مدينة العبور، القاهرة.
+> عمرات موتور كاملة · إصلاح أكل الزيت · صيانات دورية · ميكانيكا عامة.
+
+🔗 **[www.octopus.page](https://www.octopus.page/)** — الموقع الرسمي للورشة (حجز وتقدير سعر على واتساب: 01275480866).
+
+---
+
 ## 📱 تواصل معي وتابعني (Connect with Me)
 
 | المنصة | رابط الحساب / المحتوى |
 | :--- | :--- |
-| 🌐 **الموقع الشخصي** | [octopusassem.github.io](https://github.io) |
-| 🎥 **يوتيوب (عمرات وصيانة)** | [Assem Hussein على YouTube](https://youtube.com) |
-| 🎵 **تيك توك** | [@assem_hussein على TikTok](https://tiktok.com) |
-| 📸 **إنستجرام** | [@assem.hussein على Instagram](https://instagram.com) |
-| 📘 **صفحة الفيسبوك الرسمية** | [https://www.facebook.com/cars.fix.and.repair](https://www.facebook.com/cars.fix.and.repair) |
+| 🛠️ **موقع الورشة الرسمي** | [octopus.page](https://www.octopus.page/) |
+| 🌐 **الموقع الشخصي** | [octopusassem.github.io](https://octopusassem.github.io/) |
+| 🎥 **يوتيوب (عمرات وصيانة)** | [Assem Hussein على YouTube](https://www.youtube.com/@Assem_Hussein) |
+| 🎵 **تيك توك** | [@assem_hussein على TikTok](https://www.tiktok.com/@assem_hussein) |
+| 📸 **إنستجرام** | [@assem.hussein على Instagram](https://www.instagram.com/assem.hussein/) |
+| 📘 **صفحة الفيسبوك الرسمية** | [cars.fix.and.repair](https://www.facebook.com/cars.fix.and.repair/) |
 | ✉️ **البريد الإلكتروني** | sanafottazaz@gmail.com |
 
 ---
