@@ -28,7 +28,7 @@
 > **الوكالة الهندسية لصيانة وإصلاح السيارات** — مدينة العبور، القاهرة.
 > عمرات موتور كاملة · إصلاح تأكل الزيت · صيانات دورية · ميكانيكا عامة.
 
-🔗 **[www.octopus.page](https://www.octopus.page/)** — الموقع الرسمي للورشة (حجز وتقدير سعر على واتساب: 01275480866).
+🔗 **(https://engautoagency.com/)** — الموقع الرسمي للورشة (حجز وتقدير سعر على واتساب: 01275480866).
 
 ---
 
@@ -42,7 +42,6 @@
 | 🎵 **تيك توك** | [@assem_hussein على TikTok](https://www.tiktok.com/@assem_hussein) |
 | 📸 **إنستجرام** | [@assem.hussein على Instagram](https://www.instagram.com/assem.hussein/) |
 | 📘 **صفحة الفيسبوك الرسمية** | [cars.fix.and.repair](https://www.facebook.com/cars.fix.and.repair/) |
-| ✉️ **البريد الإلكتروني** | sanafottazaz@gmail.com |
 
 ---
 *بناء وإدارة: عاصم حسين (الأخطبوط الراقص) — جميع الحقوق محفوظة 2026.*
